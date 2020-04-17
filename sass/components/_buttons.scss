@@ -27,7 +27,7 @@
         }
         
         &--white {
-            background-color:color;
+            background-color: $color-white;
             color: $color-grey-dark;
 
             &::after {
@@ -53,4 +53,3 @@
             animation-fill-mode: backwards;
         }
     }
-
